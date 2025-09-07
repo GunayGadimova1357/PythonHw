@@ -1,0 +1,7 @@
+
+search type: name -> Alice 2024-07-29 23:52:25.929623
+search type: name -> Alice 2024-07-29 23:52:25.930727
+search type: by serial number -> 4 2024-07-29 23:52:30.906918
+search type: name -> 4 2024-07-29 23:52:30.908103
+search type: by serial number -> 1 2024-07-29 23:52:37.159682
+search type: name -> 1 2024-07-29 23:52:37.160595
